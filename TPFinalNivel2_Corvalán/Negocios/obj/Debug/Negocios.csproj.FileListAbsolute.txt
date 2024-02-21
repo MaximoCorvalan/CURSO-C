@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\Negocios\bin\Debug\Negocios.dll
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\Negocios\bin\Debug\Negocios.pdb
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\Negocios\bin\Debug\Dominio.dll
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\Negocios\bin\Debug\Dominio.pdb
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\Negocios\obj\Debug\Negocios.dll
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\Negocios\obj\Debug\Negocios.pdb

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\bin\Debug\presentación.exe.config
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\bin\Debug\presentación.exe
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\bin\Debug\presentación.pdb
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\obj\Debug\presentación.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\obj\Debug\presentación.formPrincipal.resources
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\obj\Debug\presentación.Properties.Resources.resources
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\obj\Debug\presentación.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\obj\Debug\presentación.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\obj\Debug\presentación.exe
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\obj\Debug\presentación.pdb
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\bin\Debug\Dominio.dll
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\bin\Debug\Negocios.dll
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\bin\Debug\Dominio.pdb
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\bin\Debug\Negocios.pdb
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\obj\Debug\presentación.csproj.CopyComplete
+C:\Users\User\Desktop\TPFinalNivel2_Corvalán\presentación\obj\Debug\presentación.AltaForm.resources
