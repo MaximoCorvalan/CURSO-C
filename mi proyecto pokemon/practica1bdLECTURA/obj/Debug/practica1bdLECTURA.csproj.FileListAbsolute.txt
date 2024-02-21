@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\bin\Debug\practica1bdLECTURA.exe.config
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\bin\Debug\practica1bdLECTURA.exe
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\bin\Debug\practica1bdLECTURA.pdb
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\obj\Debug\practica1bdLECTURA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\obj\Debug\practica1bdLECTURA.Properties.Resources.resources
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\obj\Debug\practica1bdLECTURA.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\obj\Debug\practica1bdLECTURA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\obj\Debug\practica1bdLECTURA.exe
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\obj\Debug\practica1bdLECTURA.pdb
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\obj\Debug\practica1bdLECTURA.main.resources
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\bin\Debug\dominio.dll
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\bin\Debug\dominio.pdb
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\obj\Debug\practica1bdLECTURA.csproj.CopyComplete
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\bin\Debug\negocio.dll
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\bin\Debug\negocio.pdb
+C:\Users\User\Desktop\Curso c#\practicaBD\practica1bdLECTURA\obj\Debug\practica1bdLECTURA.altaPokemon.resources
