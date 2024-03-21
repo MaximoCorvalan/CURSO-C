@@ -170,7 +170,8 @@ namespace presentación
 
 
         }
-
+        /// filtrado
+        
         private void cboCampo_SelectedIndexChanged(object sender, EventArgs e)
         {
             try
